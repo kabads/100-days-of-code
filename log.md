@@ -30,3 +30,21 @@
 **Today's Progress**: This took a lot of effort - I need to look at the part that finds the divisible numbers.
 
 **Thoughts** Another satisfying solution - a 400 list of numbers that needed multiplying horizontally, vertically and diagonally.
+
+
+### Day 4: April 30, 2018 - Monday - Had trouble finding how to find all the divisors for a number, so had to steal a piece of code from Stackoverflow - I need to work out how it works. I created all the other code though 
+
+```
+def divisorGenerator(n):
+    large_divisors = []
+    for i in range(1, int(math.sqrt(n) + 1)):
+        if n % i == 0:
+            yield i
+            if i*i != n:
+                large_divisors.append(n / i)
+    for divisor in reversed(large_divisors):
+        yield divisor```
+
+**Today's Progress**:  Was quite pleased with the triangle number generator.
+
+**Thoughts**
