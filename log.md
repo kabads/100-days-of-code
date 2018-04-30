@@ -3,28 +3,30 @@
 ### Day 0: April 26, 2018 (Example 1)
 
 
-**Today's Progress**: Solved the first problem on projecteuler.net
+**Today's Progress**: Solved the first and second problems on projecteuler.net
 
 **Thoughts:** Felt enjoyable to get code up and running so quickly.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: April 27, 2018 
+
+
+**Today's Progress**: Completed problems 3 through to 9 on projecteuler.net
+
+**Thoughts**: Project 8 was quite satisfying as it was searching through a long list of digits that needed preparing.
+
+
+
+
+### Day 2: April 28, 2018 - solved problems 10 and 11 on project euler.
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Another satisfying solution - a 400 list of numbers that needed multiplying horizontally, vertically and diagonally.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 3: April 29, 2018 - Sunday - now I've met my match. Problem 12 is about finding a highly divisible triangle number. 
+
+**Today's Progress**: This took a lot of effort - I need to look at the part that finds the divisible numbers.
+
+**Thoughts** Another satisfying solution - a 400 list of numbers that needed multiplying horizontally, vertically and diagonally.
