@@ -1,5 +1,3 @@
-# 100 Days Of Code - Log
-
 ### Day 0: April 26, 2018 (Example 1)
 
 
@@ -32,7 +30,10 @@
 **Thoughts** Another satisfying solution - a 400 list of numbers that needed multiplying horizontally, vertically and diagonally.
 
 
+
 ### Day 3: April 30, 2018 - Monday - I came up with a solution with the triangle number. I found the best way to copy a list in place `newlist = oldlist[:]` - addind the slice does this.
+
+
 
 
 ### Day 4: April 30, 2018 - Monday - Had trouble finding how to find all the divisors for a number, so had to steal a piece of code from Stackoverflow - I need to work out how it works. I created all the other code though 
