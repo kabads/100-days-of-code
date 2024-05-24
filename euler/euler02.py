@@ -6,5 +6,5 @@ def fibonacci(n):
         yield a
         a, b = b, a + b
 
-a = sum ( x for x in list(fibonacci(100000)) if x % 2 == 0)
+a = sum ( x for x in fibonacci(100000) if x % 2 == 0)
 print(a)
